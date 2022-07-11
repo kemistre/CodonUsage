@@ -1,0 +1,12 @@
+Approaches:
+
+    1. Soft max with logistic Regression
+    2. SVM with ONE vs All
+
+
+VIRUS Class
+
+True Postives False Postives
+
+
+Over Sampling vs Under Sampling
