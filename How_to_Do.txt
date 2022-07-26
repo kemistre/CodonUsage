@@ -8,5 +8,4 @@ VIRUS Class
 
 True Postives False Postives
 
-
 Over Sampling vs Under Sampling
