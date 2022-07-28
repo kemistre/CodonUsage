@@ -131,3 +131,5 @@ dmypy.json
 *.csv
 .DS_store
 labs/
+heatmap.png
+heatmap.pdf
