@@ -133,3 +133,5 @@ dmypy.json
 labs/
 heatmap.png
 heatmap.pdf
+results.txt
+test.ipynb
