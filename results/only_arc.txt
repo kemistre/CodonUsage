@@ -1,0 +1,16 @@
+Number of features:  64
+Model is trained for ARC
+Original Accuracy:  0.5825019186492709
+arc
+126
+total y 2606
+total y_predicted 2606
+actual 27
+true positive: 14
+false negative: 13
+false positive: 15
+true negative: 2564
+Precision: 0.4827586206896552
+True Positive rate or Recall: 0.5185185185185185
+specificity, selectivity or True Negative Rate: 0.9941837921675067
+Accuracy: 0.9892555640828856

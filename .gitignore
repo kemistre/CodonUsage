@@ -138,3 +138,5 @@ results.txt
 test.ipynb
 
 outputs/
+PairPlot.png
+codon_usage.*

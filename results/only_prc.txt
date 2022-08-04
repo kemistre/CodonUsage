@@ -1,0 +1,16 @@
+for prc
+Number of features:  64
+Original Accuracy:  0.5825019186492709
+plm
+18
+total y 2606
+total y_predicted 2606
+actual 2
+true positive: 2
+false negative: 0
+false positive: 91
+true negative: 2513
+Precision: 0.021505376344086023
+True Positive rate or Recall: 1.0
+specificity, selectivity or True Negative Rate: 0.9650537634408602
+Accuracy: 0.9650805832693784
