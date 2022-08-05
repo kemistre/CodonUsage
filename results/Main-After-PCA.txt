@@ -1,0 +1,163 @@
+arc
+126
+total y 2606
+total y_predicted 2606
+actual 27
+true positive: 0
+false negative: 27
+false positive: 24
+true negative: 2555
+Precision: 0.0
+True Positive rate or Recall: 0.0
+specificity, selectivity or True Negative Rate: 0.9906940674680108
+Accuracy: 0.9804297774366846
+
+
+bct
+2919
+total y 2606
+total y_predicted 2606
+actual 618
+true positive: 212
+false negative: 406
+false positive: 277
+true negative: 1711
+Precision: 0.4335378323108384
+True Positive rate or Recall: 0.343042071197411
+specificity, selectivity or True Negative Rate: 0.8606639839034205
+Accuracy: 0.7379125095932464
+
+
+phg
+220
+total y 2606
+total y_predicted 2606
+actual 37
+true positive: 0
+false negative: 37
+false positive: 0
+true negative: 2569
+Precision: nan
+True Positive rate or Recall: 0.0
+specificity, selectivity or True Negative Rate: 1.0
+Accuracy: 0.9858019953952417
+
+
+plm
+18
+total y 2606
+total y_predicted 2606
+actual 2
+true positive: 0
+false negative: 2
+false positive: 0
+true negative: 2604
+Precision: nan
+True Positive rate or Recall: 0.0
+specificity, selectivity or True Negative Rate: 1.0
+Accuracy: 0.9992325402916347
+
+
+pln
+2523
+total y 2606
+total y_predicted 2606
+actual 464
+true positive: 177
+false negative: 287
+false positive: 357
+true negative: 1785
+Precision: 0.33146067415730335
+True Positive rate or Recall: 0.38146551724137934
+specificity, selectivity or True Negative Rate: 0.8333333333333334
+Accuracy: 0.7528779739063699
+
+
+inv
+1345
+total y 2606
+total y_predicted 2606
+actual 298
+true positive: 140
+false negative: 158
+false positive: 977
+true negative: 1331
+Precision: 0.12533572068039392
+True Positive rate or Recall: 0.4697986577181208
+specificity, selectivity or True Negative Rate: 0.5766897746967071
+Accuracy: 0.5644666155026861
+
+
+vrt
+2077
+total y 2606
+total y_predicted 2606
+actual 390
+true positive: 172
+false negative: 218
+false positive: 270
+true negative: 1946
+Precision: 0.3891402714932127
+True Positive rate or Recall: 0.441025641025641
+specificity, selectivity or True Negative Rate: 0.878158844765343
+Accuracy: 0.8127398311588642
+
+
+mam
+572
+total y 2606
+total y_predicted 2606
+actual 96
+true positive: 0
+false negative: 96
+false positive: 0
+true negative: 2510
+Precision: nan
+True Positive rate or Recall: 0.0
+specificity, selectivity or True Negative Rate: 1.0
+Accuracy: 0.9631619339984651
+
+
+rod
+215
+total y 2606
+total y_predicted 2606
+actual 37
+true positive: 0
+false negative: 37
+false positive: 0
+true negative: 2569
+Precision: nan
+True Positive rate or Recall: 0.0
+specificity, selectivity or True Negative Rate: 1.0
+Accuracy: 0.9858019953952417
+
+
+pri
+180
+total y 2606
+total y_predicted 2606
+actual 38
+true positive: 0
+false negative: 38
+false positive: 0
+true negative: 2568
+Precision: nan
+True Positive rate or Recall: 0.0
+specificity, selectivity or True Negative Rate: 1.0
+Accuracy: 0.985418265541059
+
+
+vrl
+2831
+total y 2606
+total y_predicted 2606
+actual 599
+true positive: 0
+false negative: 599
+false positive: 0
+true negative: 2007
+Precision: nan
+True Positive rate or Recall: 0.0
+specificity, selectivity or True Negative Rate: 1.0
+Accuracy: 0.7701458173445894
